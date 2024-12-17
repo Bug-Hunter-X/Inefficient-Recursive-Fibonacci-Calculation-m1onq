@@ -1,0 +1,1 @@
+This repository demonstrates a common inefficiency in recursive function calls and provides a solution using memoization. The original code is extremely slow for larger Fibonacci numbers because it recalculates values multiple times. The optimized solution stores already calculated values, dramatically improving performance.
